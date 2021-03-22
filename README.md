@@ -4,4 +4,4 @@
 
 ### Technologies Used - HTML, CSS & JavaScript.
 
-### Find me on In
+### Find me on Ins
