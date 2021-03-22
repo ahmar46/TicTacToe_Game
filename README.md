@@ -4,4 +4,4 @@
 
 ### Technologies Used - HTML, CSS & JavaScript.
 
-### Find me on Instagram - @electrifyi
+### Find me on Instagram - @electrifyin
