@@ -1,4 +1,4 @@
-### TicTacToeGame made for my blo
+### TicTacToeGame made for my blog
 
 ### This game is deployed here : https://ahmar46.github.io/TicTacToe_Game
 
