@@ -8,4 +8,4 @@
 ### Join our Discord Server - [@electrifyingcodes][discord].
 
 [Instagram]: https://www.instagram.com/electrifying_codes
-[Instagram]: https://discord.com/invite/VGj9tpuqhm
+[discord]: https://discord.com/invite/VGj9tpuqhm
