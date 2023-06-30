@@ -1,4 +1,4 @@
-### TicTacToeGame made for my Learning.
+### TicTacToeGame made for my Learning purpose.
 
 ### This game is deployed here : https://ahmar46.github.io/TicTacToe_Game
 
