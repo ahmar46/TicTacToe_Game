@@ -5,6 +5,6 @@
 ### Technologies Used - HTML, CSS & JavaScript.
 
 ### Find me on Instagram - [@electrifying_codes][Instagram].
-### Join our - [@electrifying_codes][Instagram].
+### Join our Discord Server - [@electrifying_codes][Instagram].
 
 [Instagram]: https://www.instagram.com/electrifying_codes
