@@ -86,7 +86,7 @@ body {
   transform: rotate(45deg);
 }
 
-.cell.x::after,
+
 .board.x .cell:not(.x):not(.circle):hover::after {
   transform: rotate(-45deg);
 }
