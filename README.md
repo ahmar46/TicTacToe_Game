@@ -10,4 +10,4 @@
 
 [Instagram]: https://www.instagram.com/electrifying_codes
 [discord]: https://discord.com/invite/VGj9tpuqhm
-[discord]: http
+[discord]: ht
