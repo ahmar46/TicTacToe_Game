@@ -12,4 +12,4 @@
 [discord]: https://discord.com/invite/VGj9tpuqhm
 [discord]: ggit add .
 git commit -m fd
-gi
+g
