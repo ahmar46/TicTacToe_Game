@@ -10,4 +10,6 @@
 
 [Instagram]: https://www.instagram.com/electrifying_codes
 [discord]: https://discord.com/invite/VGj9tpuqhm
-[discord]: 
+[discord]: ggit add .
+git commit -m fd
+git pu
