@@ -11,4 +11,4 @@
 [Instagram]: https://www.instagram.com/electrifying_codes
 [discord]: https://discord.com/invite/VGj9tpuqhm
 [discord]: ggit add .
-git commit gt add 
+git commit gt ad
