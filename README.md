@@ -6,7 +6,7 @@
 
 ### Find me on Instagram - [@electrifyingcodes][Instagram].
 ### Join our Discord Server - [@electrifyingcodes][discord].
-### Join our Telegra Server - [@electrifyingcodes][telegram]
+### Join our Telegram Server - [@electrifyingcodes][telegram]
 
 [Instagram]: https://www.instagram.com/electrifying_codes
 [discord]: https://discord.com/invite/VGj9tpuqhm
