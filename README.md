@@ -11,4 +11,3 @@
 [Instagram]: https://www.instagram.com/electrifyingcodes
 [discord]: https://discord.com/invite/VGj9tpuqhm
 [telegram]: https://t.me/electrifyingchats
-
