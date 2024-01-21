@@ -12,4 +12,4 @@
 [discord]: https://discord.com/invite/VGj9tpuqhm
 [telegram]: https://t.me/electrifyingchats
 
-gi
+g
