@@ -8,6 +8,6 @@
 ### Join our Discord Server - [@electrifyingcodes][discord].
 ### Join our Telegram Group - [@electrifyingcodes][telegram]
 
-[Instagram]: https://www.instagram.com/electrifyingodes
+[Instagram]: https://www.instagram.com/electrifyingcodes
 [discord]: https://discord.com/invite/VGj9tpuqhm
 [telegram]: https://t.me/electrifyingchats
